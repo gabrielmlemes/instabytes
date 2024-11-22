@@ -1,4 +1,3 @@
-import "dotenv/config";
 import express from "express"; // Importa o framework Express para criar o servidor
 import multer from "multer"; // Importa o multer para manipulação de arquivos enviados (upload)
 import cors from "cors";
